@@ -1,6 +1,6 @@
 {
   "name": "@cryptium/util-commitlint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable commitlint config with custom type enum",
   "files": [
     "src",
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/cryptiumtech/util-commitlint-config-js#readme",
   "dependencies": {
-    "@cryptium/util-commitlint-config-type-enum": "^1.0.0"
+    "@cryptium/util-commitlint-config-type-enum": "^1.0.1"
   },
   "devDependencies": {
     "@commitlint/utils": "^8.1.0",
